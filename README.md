@@ -16,6 +16,7 @@ The workflow includes:
 
 ## 📂 Project Structure
 phishing-detection/
+
 ├── phishing_analysis.ipynb # Main Jupyter Notebook
 
 ├── phishing.csv # Dataset used
