@@ -19,6 +19,7 @@ phishing-detection/
 ├── phishing_analysis.ipynb # Main Jupyter Notebook
 
 ├── phishing.csv # Dataset used
+
 └── README.md # Project description
 
 
